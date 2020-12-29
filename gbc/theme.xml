@@ -68,15 +68,9 @@
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
 			<selectorColor>38224680</selectorColor>
-<<<<<<< HEAD
 			<selectedColor>c87af8</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
-=======
-			<selectedColor>1862e9</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>e3e3e3</secondaryColor>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 		

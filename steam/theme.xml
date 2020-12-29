@@ -9,11 +9,7 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-<<<<<<< HEAD
 			<color>134073</color>
-=======
-			<color>70889d</color>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 		
@@ -42,11 +38,7 @@
 	<view name="basic">
 
 		<image name="logo">
-<<<<<<< HEAD
 			<path>./logo_w.png</path>
-=======
-			<path>./logo.png</path>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<pos>0.5 0.103</pos>
 			<maxSize>0.315 0.126</maxSize>
 			<origin>0.5 0.5</origin>
@@ -57,11 +49,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-<<<<<<< HEAD
 			<color>134073</color>
-=======
-			<color>70889d</color>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -80,15 +68,9 @@
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
 			<selectorColor>20262c80</selectorColor>
-<<<<<<< HEAD
 			<selectedColor>134073</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
-=======
-			<selectedColor>858585</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>e3e3e3</secondaryColor>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 		
@@ -108,11 +90,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-<<<<<<< HEAD
 			<color>134073</color>
-=======
-			<color>70889d</color>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/background.png</path>
 		</image>
 

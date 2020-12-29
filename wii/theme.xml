@@ -9,11 +9,7 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-<<<<<<< HEAD
 			<color>51cbcc</color>
-=======
-			<color>ffffff</color>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 		
@@ -53,11 +49,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-<<<<<<< HEAD
 			<color>51cbcc</color>
-=======
-			<color>ffffff</color>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -78,11 +70,7 @@
 			<selectorColor>48484880</selectorColor>
 			<selectedColor>51cbcc</selectedColor>
 			<primaryColor>ffffff</primaryColor>
-<<<<<<< HEAD
 			<secondaryColor>ffffff</secondaryColor>
-=======
-			<secondaryColor>e3e3e3</secondaryColor>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 		

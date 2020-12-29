@@ -9,11 +9,7 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-<<<<<<< HEAD
 			<color>ffd800</color>
-=======
-			<color>636363</color>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 		
@@ -53,11 +49,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-<<<<<<< HEAD
 			<color>ffd800</color>
-=======
-			<color>636363</color>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -75,17 +67,10 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-<<<<<<< HEAD
 			<selectorColor>0c3d1b80</selectorColor>
 			<selectedColor>ffd800</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>
-=======
-			<selectorColor>1c1c1c80</selectorColor>
-			<selectedColor>ffd800</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>e3e3e3</secondaryColor>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 		
@@ -105,11 +90,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-<<<<<<< HEAD
 			<color>ffd800</color>
-=======
-			<color>636363</color>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/background.png</path>
 		</image>
 
@@ -127,17 +108,10 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.03</fontSize>
-<<<<<<< HEAD
 			<selectorColor>0c3d1b</selectorColor>
 			<selectedColor>ffd800</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>
-=======
-			<selectorColor>1c1c1c</selectorColor>
-			<selectedColor>ffd800</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>e3e3e3</secondaryColor>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<forceUppercase>0</forceUppercase>
 		</textlist>
 		
@@ -154,11 +128,7 @@
 			<text></text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.200 0.204</size>
-<<<<<<< HEAD
 			<pos>0.569 0.677</pos>
-=======
-			<pos>1 1</pos>
->>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<color>ffffff</color>
 			<fontPath>./../art/font.ttf</fontPath>
 			<fontSize>0.03</fontSize>
