@@ -67,8 +67,8 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>47474080</selectorColor>
-			<selectedColor>ffffff</selectedColor>
+			<selectorColor>ffffff</selectorColor>
+			<selectedColor>000000</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>
 			<forceUppercase>1</forceUppercase>
