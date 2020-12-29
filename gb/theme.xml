@@ -9,7 +9,11 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
+<<<<<<< HEAD
 			<color>bc15ff</color>
+=======
+			<color>4a47c4</color>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 		
@@ -49,7 +53,11 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
+<<<<<<< HEAD
 			<color>bc15ff</color>
+=======
+			<color>4a47c4</color>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -68,9 +76,15 @@
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
 			<selectorColor>350648</selectorColor>
+<<<<<<< HEAD
 			<selectedColor>bc15ff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
+=======
+			<selectedColor>bc14ff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>871F78</secondaryColor>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 		
@@ -90,7 +104,11 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
+<<<<<<< HEAD
 			<color>bc15ff</color>
+=======
+			<color>4a47c4</color>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/background.png</path>
 		</image>
 

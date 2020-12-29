@@ -9,6 +9,7 @@ license:		creative commons CC-BY-NC-SA
     <formatVersion>3</formatVersion>
 
 	<view name="system">
+<<<<<<< HEAD
 		
 		<carousel name="systemcarousel">
                         <type>horizontal</type>
@@ -29,6 +30,9 @@ license:		creative commons CC-BY-NC-SA
                         <fontSize>0.055</fontSize>
                 </text>-->
 		
+=======
+	
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 		<helpsystem name="help">
 			<pos>0.012 0.960</pos>
 			<textColor>ffffff</textColor>
@@ -65,13 +69,22 @@ license:		creative commons CC-BY-NC-SA
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontPath>./art/font.ttf</fontPath>
+<<<<<<< HEAD
 			<fontSize>0.12</fontSize>
+=======
+			<fontSize>0.04</fontSize>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<selectorColor>350648</selectorColor>
 			<selectedColor>bc14ff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>871F78</secondaryColor>
+<<<<<<< HEAD
 			<forceUppercase>0</forceUppercase>
 			<scrollSound>./art/scrollSound.wav</scrollSound>
+=======
+			<forceUppercase>1</forceUppercase>
+			<!--<scrollSound>./art/flipper.wav</scrollSound>-->
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 		</textlist>
 
 	</view>
@@ -118,13 +131,21 @@ license:		creative commons CC-BY-NC-SA
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontPath>./art/font.ttf</fontPath>
+<<<<<<< HEAD
 			<fontSize>0.12</fontSize>
+=======
+			<fontSize>0.03</fontSize>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<selectorColor>350648</selectorColor>
 			<selectedColor>bc14ff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>871F78</secondaryColor>
 			<forceUppercase>0</forceUppercase>
+<<<<<<< HEAD
 			<scrollSound>./art/scrollSound.wav</scrollSound>
+=======
+			<!--<scrollSound>./art/flipper.wav</scrollSound>-->
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 		</textlist>
 		
 		<text name="System_Desc" extra="true">

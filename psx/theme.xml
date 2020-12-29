@@ -9,7 +9,11 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
+<<<<<<< HEAD
 			<color>d52445</color>
+=======
+			<color>fdfbe3</color>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 		
@@ -49,7 +53,11 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
+<<<<<<< HEAD
 			<color>d52445</color>
+=======
+			<color>fdfbe3</color>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -70,7 +78,11 @@
 			<selectorColor>47474080</selectorColor>
 			<selectedColor>d52445</selectedColor>
 			<primaryColor>ffffff</primaryColor>
+<<<<<<< HEAD
 			<secondaryColor>000000</secondaryColor>
+=======
+			<secondaryColor>e3e3e3</secondaryColor>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
 			<forceUppercase>1</forceUppercase>
 		</textlist>
 		
@@ -138,4 +150,8 @@
 
 	</view>
 	
+<<<<<<< HEAD
 </theme>
+=======
+</theme>
+>>>>>>> 37bd4fc3573c7145f54bde7b4df0831958ecd489
