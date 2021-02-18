@@ -1,4 +1,56 @@
 Theme 'pixel' v1.7 - 05-29-2016 by Rookervik
+Theme 'MO-pixel' v1.0 - 02-28-2021 modified by claytonsulby
+
+Description:
+An updated version of the 'pixel' theme with a flattened color palette and 'Adventure Time' themed custom collections.
+Designed for small 4:3 screens in mind.
+
+Features:
+- Themed auto collections
+- Game collection themes
+- 'Adventure Time' themes
+- Flattened color palette
+- Alternative customized pixel font
+
+Current collections:
+
+Adventure Time:
+- BMO
+- Enchiridion 
+- Marceline
+- Prismo
+- Gunter
+- Lich
+- Hambo
+
+Game Collections:
+- Castlevania
+- Crash Bandicoot
+- Donkey Kong
+- Dragon Quest
+- Final Fantasy
+- Kirby
+- Mario
+- Megaman
+- Metroid
+- Pokemon
+- Spyro
+- Street Fighter
+- The Legend Of Zelda
+- Tomb Raider
+- Wario
+- Yoshi
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                      Original readme.txt                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Theme 'pixel' v1.7 - 05-29-2016 by Rookervik
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
