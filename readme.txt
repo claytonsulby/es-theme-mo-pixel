@@ -1,4 +1,12 @@
 Theme 'pixel' v1.7 - 05-29-2016 by Rookervik
+Theme 'MO-pixel' v1.0 - 02-28-2021 modified by claytonsulby
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                      Original readme.txt                      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Theme 'pixel' v1.7 - 05-29-2016 by Rookervik
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
