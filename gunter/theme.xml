@@ -63,11 +63,11 @@
 	
 		<textlist name="gamelist">
 			<pos>0.034 0.235</pos>
-			<size>0.933 0.647</size>
+			<size>0.933 0.66</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>47474080</selectorColor>
+			<selectorColor>244059ff</selectorColor>
 			<selectedColor>294965</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>
