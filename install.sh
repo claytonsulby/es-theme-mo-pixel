@@ -22,10 +22,10 @@ chmod +x install.sh
 
 # Move splashscreens to folder
 echo "Moving ./splashscreens to ~/RetroPie/"
-cp -auv ./splashscreens ~/RetroPie
+rsync -auv ./splashscreens ~/RetroPie/splashscreens/
 
 echo "Moving ./screensavers to ~/RetroPie/"
-cp -auv ./screensavers ~/RetroPie
+rsync -auv ./screensavers ~/RetroPie/screensavers/
 
-echo "Moving ./runvideos to ~/RetroPie/"
-cp -auv ./runvideos ~/RetroPie
+echo "Moving ./videos to ~/RetroPie/"
+rsync -auv ./videos ~/RetroPie/videos/
