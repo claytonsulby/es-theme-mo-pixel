@@ -27,5 +27,5 @@ cp -auv ./splashscreens ~/RetroPie
 echo "Moving ./screensavers to ~/RetroPie/"
 cp -auv ./screensavers ~/RetroPie
 
-echo "Moving ./videos to ~/RetroPie/"
-cp -auv ./videos ~/RetroPie
+echo "Moving ./runvideos to ~/RetroPie/"
+cp -auv ./runvideos ~/RetroPie
