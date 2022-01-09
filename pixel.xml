@@ -125,10 +125,10 @@ license:		creative commons CC-BY-NC-SA
 		</text>
 
 		<textlist name="gamelist">
-			<pos>0.034 0.235</pos>
-			<size>0.933 0.66</size>
+			<pos>0.03 0.25</pos>
+			<size>0.1 0.65</size>
 			<horizontalMargin>0.01</horizontalMargin>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.07</fontSize>
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>000000</selectedColor>
 			<primaryColor>ffffff</primaryColor>
@@ -142,11 +142,11 @@ license:		creative commons CC-BY-NC-SA
 	<view name="basic">
 
 		<image name="logo">
-			<pos>0.5 0.103</pos>
+			<pos>0.1 0.1</pos>
 		</image>
 
 		<text name="logoText">
-			<pos>0.5 0.103</pos>
+			<pos>0.1 0.1</pos>
 		</text>
 
 		<textlist name="gamelist">
