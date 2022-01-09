@@ -142,12 +142,10 @@ license:		creative commons CC-BY-NC-SA
 	<view name="basic">
 
 		<image name="logo">
-			<alignment>left</alignment>
 			<pos>0.03 0.1</pos>
 		</image>
 
 		<text name="logoText">
-			<alignment>left</alignment>
 			<pos>0.03 0.1</pos>
 		</text>
 
