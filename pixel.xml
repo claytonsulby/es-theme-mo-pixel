@@ -127,7 +127,6 @@ license:		creative commons CC-BY-NC-SA
 		<textlist name="gamelist">
 			<pos>0.03 0.25</pos>
 			<size>1.0 0.65</size>
-			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.06</fontSize>
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>000000</selectedColor>
@@ -148,7 +147,6 @@ license:		creative commons CC-BY-NC-SA
 		<text name="logoText">
 			<fontSize>0.06</fontSize>
 			<alignment>left</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
 			<pos>0.5 0.1</pos>
 		</text>
 
