@@ -5,6 +5,7 @@
 	<view name="system, basic, detailed">
 
 		<text name="logoText">
+			<fontPath>./../art/fonts/${gb_font}</fontPath>
 			<color>${gb_d}</color>
 		</text>
 
