@@ -1,54 +1,27 @@
 <theme>
-    <formatVersion>3</formatVersion>
-    <include>./../pixel.xml</include>
-
-	<view name="system">
-
-		<image name="background" extra="true">
-			<!-- console color -->
-			<color>${gba}</color>
-		</image>
-				
-		<image name="logo">
-			<path>./logo.png</path>
-        </image>
-
+	<formatVersion>3</formatVersion>
+	<include>./../pixel.xml</include>
+	
+	<view name="system, basic, detailed">
+		
 		<text name="logoText">
+			<fontPath>./../art/fonts/${gba_font}.ttf</fontPath>
 			<color>${gba_d}</color>
 		</text>
-
-		<image name="console_overlay" extra="true">
-			<path>./console.png</path>
+		
+		<image name="background" extra="true">
+			<color>${gba}</color>
 		</image>
 		
 	</view>
-
+	
 	<view name="basic, detailed">
-
-		<text name="logoText">
-			<color>${gba_d}</color>
-		</text>
-
-		<image name="background" extra="true">
-			<color>${gba}</color>
-		</image>
-
+		
 		<textlist name="gamelist">
-			<!-- darker console color -->
 			<selectorColor>${gba_d}${selector_opacity}</selectorColor>
 			<selectedColor>${gba}</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>000000</secondaryColor>
 		</textlist>
-
-	</view>
-
-	<view name="detailed">
-
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
+		
 	</view>
 	
 </theme>
