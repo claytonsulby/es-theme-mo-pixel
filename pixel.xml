@@ -80,7 +80,7 @@ license:		creative commons CC-BY-NC-SA
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<color>000000</color>
-			<path>./art/systemback.png</path>
+<!--		<path>./art/systemback.png</path>-->
 		</image>
 
 		
@@ -129,7 +129,7 @@ license:		creative commons CC-BY-NC-SA
 		<textlist name="gamelist">
 			<pos>0.04 0.15</pos>
 			<size>1.0 0.85</size>
-			<fontSize>0.065</fontSize>
+<!--		<fontSize>0.065</fontSize>-->
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>000000</selectedColor>
 			<primaryColor>ffffff</primaryColor>
@@ -147,7 +147,7 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 
 		<text name="logoText">
-			<fontSize>0.065</fontSize>
+<!--		<fontSize>0.065</fontSize>-->
 			<alignment>left</alignment>
 		</text>
 
