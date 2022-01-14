@@ -1,6 +1,6 @@
 <theme>
     <formatVersion>3</formatVersion>
-    <include>./../pixel.xml</include>
+    <include>./pixel.xml</include>
 
 	<view name="system, basic, detailed">
 
@@ -31,7 +31,7 @@
 
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${custom_d}ff</selectorColor>
+			<selectorColor>${custom_d}${selector_opacity}</selectorColor>
 			<selectedColor>${custom}</selectedColor>
 			<primaryColor>000000</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
