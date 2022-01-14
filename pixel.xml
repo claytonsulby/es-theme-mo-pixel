@@ -122,12 +122,12 @@ license:		creative commons CC-BY-NC-SA
 
 		<text name="logoText">
 			<origin>0 0</origin>
-			<pos>0.04 0.05</pos>
+			<pos>0.05 0.05</pos>
 			<color>ffffff</color>
 		</text>
 
 		<textlist name="gamelist">
-			<pos>0.04 0.15</pos>
+			<pos>0.05 0.15</pos>
 			<size>1.0 0.8</size>
 <!--		<fontSize>0.065</fontSize>-->
 			<selectorColor>ffffff</selectorColor>
@@ -143,7 +143,7 @@ license:		creative commons CC-BY-NC-SA
 	<view name="basic">
 
 		<image name="logo">
-			<pos>0.5 0.1</pos>
+			<pos>0.05 0.05</pos>
 		</image>
 
 		<text name="logoText">
