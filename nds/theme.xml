@@ -35,7 +35,7 @@
 
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${nds_d}80${selector_opacity}</selectorColor>
+			<selectorColor>${nds_d}80</selectorColor>
 			<selectedColor>${nds}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>

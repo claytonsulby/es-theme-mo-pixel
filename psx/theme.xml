@@ -35,7 +35,7 @@
 
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${psx_d}80${selector_opacity}</selectorColor>
+			<selectorColor>${psx_d}80</selectorColor>
 			<selectedColor>${psx}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>

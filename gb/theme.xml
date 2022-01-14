@@ -17,7 +17,7 @@
 	<view name="basic, detailed">
 
 		<textlist name="gamelist">
-			<selectorColor>${gb_d}${selector_opacity}</selectorColor>
+			<selectorColor>${gb_d}</selectorColor>
 			<selectedColor>${gb}</selectedColor>
 		</textlist>
 

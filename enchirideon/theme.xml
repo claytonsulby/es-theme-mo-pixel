@@ -39,7 +39,7 @@
 
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${enchiridion_d}80${selector_opacity}</selectorColor>
+			<selectorColor>${enchiridion_d}80</selectorColor>
 			<selectedColor>${enchiridion}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>

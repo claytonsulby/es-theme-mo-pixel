@@ -32,7 +32,7 @@
 	<view name="basic, detailed">
 
 		<textlist name="gamelist">
-			<selectorColor>${bmo_d}${selector_opacity}</selectorColor>
+			<selectorColor>${bmo_d}</selectorColor>
 			<selectedColor>${bmo}</selectedColor>
 		</textlist>
 
