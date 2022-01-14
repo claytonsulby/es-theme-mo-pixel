@@ -62,15 +62,15 @@ license:		creative commons CC-BY-NC-SA
 	<view name="basic, detailed, system">
 
 		<image name="logo">
-			<maxSize>0.315 0.126</maxSize>
+			<maxSize>0.315 0.125</maxSize>
 			<origin>0.5 0.5</origin>
 			<path>./${system.name}/logo.png</path>
 		</image>
 
 		<text name="logoText">
 			<text>${system.fullName}</text>
-			<origin>0.5 0.5</origin>
 			<fontPath>./art/pixel2.ttf</fontPath>
+			<color>ffffff</color>
 			<forceUppercase>1</forceUppercase>
 		</text>
 
@@ -97,7 +97,7 @@ license:		creative commons CC-BY-NC-SA
 		</carousel>
 
 		<text name="logoText">
-			<color>ffffff</color>
+			<origin>0.5 0.5</origin>
 		</text>
 		
 		<text name="systemInfo">
@@ -121,6 +121,7 @@ license:		creative commons CC-BY-NC-SA
     <view name="basic, detailed">
 
 		<text name="logoText">
+			<origin>0 0</origin>
 			<color>ffffff</color>
 		</text>
 
