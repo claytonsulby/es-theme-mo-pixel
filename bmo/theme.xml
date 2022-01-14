@@ -11,7 +11,8 @@
 
 		<image name="background" extra="true">
 			<color>${bmo}</color>
-			<path>./../art/bmo_systemback.png</path>
+			<path>./../art/systemback_w.png</path>
+<!--		<path>./../art/bmo_systemback.png</path>-->
 		</image>
 
 	</view>

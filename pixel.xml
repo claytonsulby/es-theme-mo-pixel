@@ -80,7 +80,7 @@ license:		creative commons CC-BY-NC-SA
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<color>000000</color>
-<!--		<path>./art/systemback.png</path>-->
+			<path>./art/systemback_w.png</path>
 		</image>
 
 		

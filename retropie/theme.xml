@@ -35,7 +35,7 @@
 
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${retropie_d}80</selectorColor>
+			<selectorColor>${retropie_d}80${selector_opacity}</selectorColor>
 			<selectedColor>${retropie}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>

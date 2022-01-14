@@ -35,7 +35,7 @@
 
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${snes_d}80</selectorColor>
+			<selectorColor>${snes_d}80${selector_opacity}</selectorColor>
 			<selectedColor>${snes}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>

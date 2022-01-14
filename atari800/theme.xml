@@ -67,7 +67,7 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>37281480</selectorColor>
+			<selectorColor>37281480${selector_opacity}</selectorColor>
 			<selectedColor>d5721c</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
@@ -108,7 +108,7 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.03</fontSize>
-			<selectorColor>372814</selectorColor>
+			<selectorColor>372814${selector_opacity}</selectorColor>
 			<selectedColor>d5721c</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>

@@ -35,7 +35,7 @@
 
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${gba_d}80</selectorColor>
+			<selectorColor>${gba_d}80${selector_opacity}</selectorColor>
 			<selectedColor>${gba}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>
