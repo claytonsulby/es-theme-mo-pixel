@@ -122,7 +122,7 @@ license:		creative commons CC-BY-NC-SA
 
 		<text name="logoText">
 			<origin>0 0</origin>
-			<pos>0.04 0.15</pos>
+			<pos>0.04 0.05</pos>
 			<color>ffffff</color>
 		</text>
 
