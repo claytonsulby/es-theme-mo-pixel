@@ -1,51 +1,13 @@
 <theme>
     <formatVersion>3</formatVersion>
-    <include>./../pixel.xml</include>
+	<include>./../custom.xml</include>
 
 	<view name="system, basic, detailed">
 
-		<image name="logo">
-			<path>./logo.png</path>
-        </image>
-
 		<text name="logoText">
 			<text>dragon quest</text>
-			<color>${custom_d}</color>
 		</text>
 
-		<image name="background" extra="true">
-			<color>${custom}</color>
-			<path>./../art/systemback_w.png</path>
-		</image>
-
 	</view>
 
-	<view name="system">
-
-		<image name="console_overlay" extra="true">
-			<path>./console.png</path>
-		</image>
-		
-	</view>
-
-	<view name="basic, detailed">
-
-		<textlist name="gamelist">
-			<!-- darker console color -->
-			<selectorColor>${custom_d}ff</selectorColor>
-			<selectedColor>${custom}</selectedColor>
-			<primaryColor>000000</primaryColor>
-			<secondaryColor>ffffff</secondaryColor>
-		</textlist>
-
-	</view>
-
-	<view name="detailed">
-
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-	</view>
-	
 </theme>

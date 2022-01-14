@@ -67,7 +67,7 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>472f0180</selectorColor>
+			<selectorColor>472f01${selector_opacity}</selectorColor>
 			<selectedColor>fda504</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>

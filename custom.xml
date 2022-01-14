@@ -2,20 +2,24 @@
     <formatVersion>3</formatVersion>
     <include>./../pixel.xml</include>
 
-	<view name="system">
+	<view name="system, basic, detailed">
 
-		<image name="background" extra="true">
-			<!-- console color -->
-			<color>${n64}</color>
-		</image>
-				
 		<image name="logo">
 			<path>./logo.png</path>
         </image>
 
 		<text name="logoText">
-			<color>${n64_d}</color>
+			<color>${custom_d}</color>
 		</text>
+
+		<image name="background" extra="true">
+			<color>${custom}</color>
+			<path>./../art/systemback_w.png</path>
+		</image>
+
+	</view>
+
+	<view name="system">
 
 		<image name="console_overlay" extra="true">
 			<path>./console.png</path>
@@ -25,20 +29,12 @@
 
 	<view name="basic, detailed">
 
-		<text name="logoText">
-			<color>${n64_d}</color>
-		</text>
-
-		<image name="background" extra="true">
-			<color>${n64}</color>
-		</image>
-
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${n64_d}${selector_opacity}</selectorColor>
-			<selectedColor>${n64}</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>000000</secondaryColor>
+			<selectorColor>${custom_d}ff</selectorColor>
+			<selectedColor>${custom}</selectedColor>
+			<primaryColor>000000</primaryColor>
+			<secondaryColor>ffffff</secondaryColor>
 		</textlist>
 
 	</view>

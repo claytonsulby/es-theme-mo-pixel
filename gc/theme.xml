@@ -67,7 +67,7 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>19344780</selectorColor>
+			<selectorColor>193447${selector_opacity}</selectorColor>
 			<selectedColor>d0d0e5</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>

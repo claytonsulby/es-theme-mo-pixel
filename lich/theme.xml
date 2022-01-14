@@ -35,7 +35,7 @@
 
 		<textlist name="gamelist">
 			<!-- darker console color -->
-			<selectorColor>${lich_d}80</selectorColor>
+			<selectorColor>${lich_d}${selector_opacity}</selectorColor>
 			<selectedColor>${lich}</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>000000</secondaryColor>
