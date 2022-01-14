@@ -4,27 +4,15 @@
 
 	<view name="system, basic, detailed">
 
-		<image name="logo">
-			<path>./logo.png</path>
-        </image>
-
 		<text name="logoText">
 			<color>${custom_d}</color>
 		</text>
 
 		<image name="background" extra="true">
 			<color>${custom}</color>
-			<path>./../art/systemback_w.png</path>
+			<path>./art/systemback_w.png</path>
 		</image>
 
-	</view>
-
-	<view name="system">
-
-		<image name="console_overlay" extra="true">
-			<path>./console.png</path>
-		</image>
-		
 	</view>
 
 	<view name="basic, detailed">
@@ -39,12 +27,4 @@
 
 	</view>
 
-	<view name="detailed">
-
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-	</view>
-	
 </theme>
